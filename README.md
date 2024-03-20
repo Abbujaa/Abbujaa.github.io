@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>A Full-Stack developer | MERN Stack</h4>
 
 - 🔭 I’m currently working on a flutter Project
-- 🌱 I’m Interested to work on google solution challenge
+- 🌱 I’m Interested to work on ML
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & ML
 - 📫 How to reach me: work.abdulhamid@gmail.com
